@@ -1,6 +1,9 @@
 # GithubUserSearch
 This is a sample iOS and Android app created with React Native that lets you search for a Github user by their username
 
+# Demo
+[Youtube Demo Video](https://youtu.be/YL4BQmSwsgI)
+
 # Getting Started
 1. Clone this repo unto your local machine using the following command: `git clone https://github.com/Chiamaka/GithubUserSearch.git`
 2. cd into the repo
